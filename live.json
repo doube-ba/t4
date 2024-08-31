@@ -1,1 +1,15 @@
+{
+  "lives": [
+    {
+      "name": "ETH",
+      "url": "http://192.168.31.100:8001/tv/eth.txt",
+      "header": {
+        "User-Agent": "okhttp/4.12.0"
+      }
+    }
+  ]
+}
+
+
+
 
