@@ -1,8 +1,8 @@
 {
   "lives": [
     {
-      "name": "ETH",
-      "url": "http://192.168.31.100:8001/tv/eth.txt",
+      "name": "ETH(翻)",
+      "url": "https://raw.githubusercontent.com/doube-ba/t4/main/eth.txt",
       "header": {
         "User-Agent": "okhttp/4.12.0"
       }
